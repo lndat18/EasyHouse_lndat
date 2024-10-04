@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\EasyHouse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\source\\repos\\EasyHouse\\DesignEasyHouse1\\PhongBan\\PhongBanForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DesignEasyHouse1\\PhongBan\\PhongBanForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\source\\repos\\EasyHouse\\DesignEasyHouse1\\CuDan\\CuDanForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DesignEasyHouse1\\CuDan\\CuDanForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\source\\repos\\EasyHouse\\DesignEasyHouse1\\SampleChildForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DesignEasyHouse1\\SampleChildForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\source\\repos\\EasyHouse\\DesignEasyHouse1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DesignEasyHouse1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PhongBanForm.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\EasyHouse\\DesignEasyHouse1\\PhongBan\\PhongBanForm.cs",
+              "RelativeDocumentMoniker": "DesignEasyHouse1\\PhongBan\\PhongBanForm.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\EasyHouse\\DesignEasyHouse1\\PhongBan\\PhongBanForm.cs",
+              "RelativeToolTip": "DesignEasyHouse1\\PhongBan\\PhongBanForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T13:29:03.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CuDanForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\EasyHouse\\DesignEasyHouse1\\CuDan\\CuDanForm.Designer.cs",
+              "RelativeDocumentMoniker": "DesignEasyHouse1\\CuDan\\CuDanForm.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\EasyHouse\\DesignEasyHouse1\\CuDan\\CuDanForm.Designer.cs",
+              "RelativeToolTip": "DesignEasyHouse1\\CuDan\\CuDanForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:41:09.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SampleChildForm.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\EasyHouse\\DesignEasyHouse1\\SampleChildForm.cs",
+              "RelativeDocumentMoniker": "DesignEasyHouse1\\SampleChildForm.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\EasyHouse\\DesignEasyHouse1\\SampleChildForm.cs",
+              "RelativeToolTip": "DesignEasyHouse1\\SampleChildForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:46:39.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\EasyHouse\\DesignEasyHouse1\\Program.cs",
+              "RelativeDocumentMoniker": "DesignEasyHouse1\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\EasyHouse\\DesignEasyHouse1\\Program.cs",
+              "RelativeToolTip": "DesignEasyHouse1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T13:42:32.953Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
